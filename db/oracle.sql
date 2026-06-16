@@ -1,0 +1,4 @@
+CREATE TABLE shipments (
+  id NUMBER PRIMARY KEY,
+  name VARCHAR2(50)
+);

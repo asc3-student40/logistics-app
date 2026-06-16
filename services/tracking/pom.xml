@@ -1,0 +1,12 @@
+<project>
+  <properties>
+    <java.version>11</java.version>
+  </properties>
+
+  <dependencies>
+    <dependency>
+      <groupId>oracle.jdbc</groupId>
+      <artifactId>ojdbc</artifactId>
+    </dependency>
+  </dependencies>
+</project>
